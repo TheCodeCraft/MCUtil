@@ -1,3 +1,3 @@
 # MCUtil
-MCUtil is a minecraft client coding framework
+MCUtil is a minecraft client coding library
 
